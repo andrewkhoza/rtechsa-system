@@ -321,7 +321,7 @@ If you're interested in any of the following, feel free to reach out:
 - **Source code review** — a private demo of the codebase for vetting or evaluation purposes
 - **Similar build** — commissioning a comparable system for your business
 
-📧 **[info@genesisdigital.co.za](mailto:andrew@genesisdigital.co.za)**
+📧 **[andrew@genesisdigital.co.za](mailto:andrew@genesisdigital.co.za)**
 🌐 **[genesisdigital.co.za](https://genesisdigital.co.za)**
 
 > Built by [Genesis Digital Solutions](https://genesisdigital.co.za)
